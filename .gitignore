@@ -1,0 +1,11 @@
+**/*.dat
+**/*.pth
+.ipynb_checkpoints
+**/*.csv
+__pycache__
+bp4d_check
+.vscode
+.neptune
+*.ipynb
+*.txt
+output
